@@ -14,7 +14,7 @@ no transcribed dialogue, no studio logos, no reproduced identity artwork.
 | `003-starfield-survey.jpg` | 3840×2160 | Deep-space survey: green + navy nebula washes, two threshold-noise star layers, survey grid (no edge vignette) |
 | `004-muthur-status.jpg` | 3840×2160 | Ship-status CRT: vessel header, system-check readout, command prompt, scanlines — text block centered, no edge vignette |
 | `006-quarantine-manifest.jpg` | 3840×2160 | Seal manifest CRT: amber status table, typed-confirm prompt, edge-anchored hazard striping, scanlines — text block centered, no edge vignette |
-| `007-terminal-static.jpg` | 3840×2160 | Idle-terminal static: phosphor-tinted noise field, faint center glow, scanlines — no text, no edge vignette |
+| `007-terminal-static.jpg` | 3840×2160 | Idle-terminal static: uniform phosphor-tinted noise field, one full unclipped center glow circle, scanlines — no text, no edge treatments of any kind |
 
 Color-story inspiration (red colony / green valley / starfield survey-grid)
 comes from generic campaign-poster composition, re-executed from scratch —
