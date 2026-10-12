@@ -1,0 +1,45 @@
+# NOSTROMO — MU-TH-UR terminal theme for Omarchy.
+# Commercial towing vehicle USCSS NOSTROMO 1809246 // dark ship-ops palette.
+# Phosphor green = nominal/active only. Amber = degraded. Red = lockdown.
+# Bone text on near-black hull; steel for secondary. No pills, no pastels.
+mode = "dark"
+
+# The colour the theme is remembered by: MU-TH-UR phosphor.
+accent = "#33FF66"
+selection = "#14301F"
+muted = "#6E7A80"
+
+# Surfaces, darkest to lightest. Green-tinted gunmetal ramp.
+background = "#060809"
+dark_background = "#040607"
+darker_background = "#020304"
+lighter_background = "#14191D"
+
+# Text, primary to brightest. Bone on hull, never pure white.
+foreground = "#D6D2C4"
+dark_foreground = "#8A9499"
+light_foreground = "#EAE8DF"
+bright_foreground = "#F4F2E8"
+
+# Window focus: phosphor edge into holo cyan, 45deg grind.
+hyprland_active_border = "rgba(51FF66ee) rgba(125F9FFee) 45deg"
+
+# The sixteen ANSI colours. Semantics kept: red=error, green=ok,
+# yellow=warnings, blue/cyan=holo instruments. Magenta is a dusty
+# signal-violet so diffs and syntax stay separable for colour-blind eyes
+# (differs from red/green in lightness, not hue alone).
+red = "#FF4438"
+yellow = "#FFB000"
+orange = "#FF5C00"
+green = "#33FF66"
+cyan = "#7DF9FF"
+blue = "#4DA6FF"
+magenta = "#C792EA"
+brown = "#A97646"
+
+bright_red = "#FF7A6B"
+bright_yellow = "#FFC44D"
+bright_green = "#5CFF85"
+bright_cyan = "#9DFBFF"
+bright_blue = "#7DB9FF"
+bright_magenta = "#D5AEEF"
