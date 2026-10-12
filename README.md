@@ -42,12 +42,13 @@ File manager icons: `Yaru-olive` (colonial drab).
 
 Six original 3840×2160 wallpapers in `backgrounds/`, cycled in filename
 order: three survey vistas (red colony, green valley, starfield) and three
-ship-terminal CRTs (system status, deck schematic, quarantine manifest).
+ship-terminal CRTs (system status, quarantine manifest, idle static).
 All are procedural — layered gradients, line-art, terminal type, survey
-grids, scanlines, film grain, vignette — generated with ImageMagick 7. No
-photographs, no film stills, no AI generation. Each is under 700 KB and
-keeps the top strip near-black so the bar stays readable. See
-`backgrounds/CREDITS.md`.
+grids, scanlines, film grain — generated with ImageMagick 7. No
+photographs, no film stills, no AI generation. Each is around 1 MB or less
+and keeps the top strip near-black so the bar stays readable. The CRT
+text blocks are centered compositions so they survive ultrawide, 16:9,
+and portrait crops. See `backgrounds/CREDITS.md`.
 
 ## Clean-room note
 

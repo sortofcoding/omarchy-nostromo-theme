@@ -11,10 +11,10 @@ no transcribed dialogue, no studio logos, no reproduced identity artwork.
 |---|---|---|
 | `001-red-colony.jpg` | 3840×2160 | Oxidized-colony abstraction: rust radial glow, three ridge bands, faint docking-orange horizon line, survey grid |
 | `002-green-valley.jpg` | 3840×2160 | Terraform-valley abstraction: phosphor horizon glow, three ridge bands, faint holo-cyan survey line, survey grid |
-| `003-starfield-survey.jpg` | 3840×2160 | Deep-space survey: green + navy nebula washes, two threshold-noise star layers, survey grid |
-| `004-muthur-status.jpg` | 3840×2160 | Ship-status CRT: vessel header, system-check readout, command prompt, scanlines |
-| `005-deck-schematic.jpg` | 3840×2160 | Deck-plan survey: hull line-art, compartment labels, telemetry column, hazard ticks, survey grid, scanlines |
-| `006-quarantine-manifest.jpg` | 3840×2160 | Seal manifest CRT: amber status table, typed-confirm prompt, edge hazard striping, scanlines |
+| `003-starfield-survey.jpg` | 3840×2160 | Deep-space survey: green + navy nebula washes, two threshold-noise star layers, survey grid (no edge vignette) |
+| `004-muthur-status.jpg` | 3840×2160 | Ship-status CRT: vessel header, system-check readout, command prompt, scanlines — text block centered, no edge vignette |
+| `006-quarantine-manifest.jpg` | 3840×2160 | Seal manifest CRT: amber status table, typed-confirm prompt, edge-anchored hazard striping, scanlines — text block centered, no edge vignette |
+| `007-terminal-static.jpg` | 3840×2160 | Idle-terminal static: phosphor-tinted noise field, faint center glow, scanlines — no text, no edge vignette |
 
 Color-story inspiration (red colony / green valley / starfield survey-grid)
 comes from generic campaign-poster composition, re-executed from scratch —
