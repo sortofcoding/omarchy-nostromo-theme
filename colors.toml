@@ -22,7 +22,7 @@ light_foreground = "#EAE8DF"
 bright_foreground = "#F4F2E8"
 
 # Window focus: phosphor edge into holo cyan, 45deg grind.
-hyprland_active_border = "rgba(51FF66ee) rgba(125F9FFee) 45deg"
+hyprland_active_border = "rgba(33ff66ee) rgba(7df9ffee) 45deg"
 
 # The sixteen ANSI colours. Semantics kept: red=error, green=ok,
 # yellow=warnings, blue/cyan=holo instruments. Magenta is a dusty
