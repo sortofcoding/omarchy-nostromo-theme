@@ -5,7 +5,7 @@ Omarchy dark theme: MU-TH-UR ship-terminal aesthetic, installs as `nostromo`.
 ## Layout
 
 - `colors.toml` — source of truth: full canonical palette + `hyprland_active_border`
-- `backgrounds/` — 3 original procedural 4K JPGs + `CREDITS.md` (no third-party assets, ever)
+- `backgrounds/` — 6 original procedural 4K JPGs + `CREDITS.md` (no third-party assets, ever)
 - `icons.theme` — single line (`Yaru-olive`)
 - `preview.png` — 1800×1012 picker thumbnail
 - `VERSION` — single version source, lockstep with git tag `vX.Y.Z`

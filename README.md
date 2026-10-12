@@ -40,9 +40,11 @@ File manager icons: `Yaru-olive` (colonial drab).
 
 ## Backgrounds
 
-Three original 3840×2160 wallpapers in `backgrounds/`, cycled in filename
-order. All are procedural — layered gradients, ridge silhouettes, a sparse
-survey grid, film grain, vignette — generated with ImageMagick 7. No
+Six original 3840×2160 wallpapers in `backgrounds/`, cycled in filename
+order: three survey vistas (red colony, green valley, starfield) and three
+ship-terminal CRTs (system status, deck schematic, quarantine manifest).
+All are procedural — layered gradients, line-art, terminal type, survey
+grids, scanlines, film grain, vignette — generated with ImageMagick 7. No
 photographs, no film stills, no AI generation. Each is under 700 KB and
 keeps the top strip near-black so the bar stays readable. See
 `backgrounds/CREDITS.md`.
@@ -64,7 +66,7 @@ towing vehicle; no affiliation with any studio is claimed.
 ```
 omarchy-nostromo-theme/
 ├── colors.toml        palette — the only required file; everything generates from this
-├── backgrounds/       3 original 4K wallpapers + CREDITS.md
+├── backgrounds/       6 original 4K wallpapers + CREDITS.md
 ├── icons.theme        Yaru-olive
 ├── preview.png        theme-picker thumbnail
 ├── AGENTS.md          repo workflow
